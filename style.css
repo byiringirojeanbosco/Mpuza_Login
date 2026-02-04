@@ -39,7 +39,7 @@ legend {
 }
 
 legend img {
-    width: 60px;      /* adjust to match mockup */
+    width: 60px;    
     height: auto;
     display: inline-block;
 }
